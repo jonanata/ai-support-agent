@@ -1,8 +1,8 @@
-\# Autonomous Tool Orchestration \& Multi-Capability Support Agent
+# Autonomous Tool Orchestration \& Multi-Capability Support Agent
 
 
 
-\*Project 2 — Future AWS Agent Engineer Nanodegree\*
+*Project 2 — Future AWS Agent Engineer Nanodegree\*
 
 
 
