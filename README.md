@@ -6,11 +6,11 @@
 
 
 
-\---
+---
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,23 +18,23 @@ This repository contains the full implementation for \*\*Project 2\*\*, featurin
 
 
 
-\### 📚 Detailed Articles \& References
+### 📚 Detailed Articles \& References
 
 For a deep dive into the engineering principles, architectural decisions, and step-by-step walkthrough, check out the following resources:
 
-\* 🌐 \*\*Technical Blog Post:\*\* \[Read full article](my\_blog\_article\_link)
+* 🌐 \*\*Technical Blog Post:\*\* \[Read full article](my\_blog\_article\_link)
 
-\* ☁️ \*\*AWS Community Builders Article:\*\* \[Read on AWS Builders Center](my\_builder\_article\_link)
+* ☁️ \*\*AWS Community Builders Article:\*\* \[Read on AWS Builders Center](my\_builder\_article\_link)
 
-\* 🔗 \*\*Official Starter Template:\*\* \[udacity/cd14763-project-starter](https://github.com/udacity/cd14763-project-starter)
-
-
-
-\---
+* 🔗 \*\*Official Starter Template:\*\* \[udacity/cd14763-project-starter](https://github.com/udacity/cd14763-project-starter)
 
 
 
-\## Architecture \& Integrated Tool Subsystems
+---
+
+
+
+## Architecture \& Integrated Tool Subsystems
 
 
 
