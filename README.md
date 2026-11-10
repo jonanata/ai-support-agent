@@ -52,7 +52,41 @@ The agent unifies five distinct AWS and Bedrock capabilities into a single conve
 
 5. **AgentCore Browser Tool:** Grants real-time web access for external URL inspection when information is missing from internal databases.
 
+---
 
+## Prerequisites
+
+### AWS Account
+
+- An active AWS account with permission to create and manage:
+  - IAM roles and policies
+  - Lambda functions
+  - API Gateway REST APIs
+  - Amazon Bedrock Managed Knowledge Bases (with S3 access)
+  - Amazon Bedrock AgentCore resources (Runtime, Gateway, Memory)
+- All resources should be created in **us-east-1** (N. Virginia) unless stated otherwise.
+
+### Local Development Environment
+
+| Tool | Version |
+|------|---------|
+| Python | 3.13+ |
+| [uv](https://docs.astral.sh/uv/) | Latest |
+| AWS CLI | v2 |
+| AgentCore CLI (`agentcore`) | Installed via `bedrock-agentcore-starter-toolkit` |
+| Node.js (for MCP Inspector) | 18+ |
+
+### Model Access
+
+Enable the following model in the Amazon Bedrock console under **Model access**:
+
+- **Amazon Nova 2 Lite** (`amazon.nova-2-lite-v1:0`). The starter code invokes its global inference profile, `global.amazon.nova-2-lite-v1:0`.
+
+> **CLI compatibility:** This released project intentionally uses the Python-based
+> Bedrock AgentCore Starter Toolkit CLI. AWS recommends the newer npm-based
+> AgentCore CLI for new projects, but its project format and commands differ from
+> this project. Do not install both CLIs in the same environment because both
+> provide an `agentcore` command.
 
 ---
 
