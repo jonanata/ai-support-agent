@@ -22,9 +22,9 @@ This repository contains the full implementation for **Project 2**, featuring an
 
 For a deep dive into the engineering principles, architectural decisions, and step-by-step walkthrough, check out the following resources:
 
-* 🌐 **Technical Blog Post:** [Read full article](my\_blog\_article\_link)
+* 🌐 **Technical Blog Post:** [Read full article](https://blog.jonanata.com/autonomous-tool-orchestration-multi-capability-agent-systems-with-amazon-bedrock-agentcore-strands-sdk/)
 
-* ☁️ **AWS Community Builders Article:** [Read on AWS Builders Center](my\_builder\_article\_link)
+* ☁️ **AWS Community Builders Article:** [Read on AWS Builders Center](https://builder.aws.com/content/3LvNEFpOuBTNAYB0cyMRGhcP8y6/autonomous-tool-orchestration-and-multi-capability-agent-systems-with-amazon-bedrock-agentcore-and-strands-sdk)
 
 * 🔗 **Official Starter Template:** [udacity/cd14763-project-starter](https://github.com/udacity/cd14763-project-starter)
 
